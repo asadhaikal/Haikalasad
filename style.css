@@ -1,0 +1,29 @@
+body{
+    font-family: poppins;
+    color: #fff;
+}
+.gambar{
+    background-image: url("https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80");
+    background-size: cover;   
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.container{
+    top:100px;
+
+}
+.services{
+    color:black
+}
+.about{
+    color:black
+}
+.tim{
+    color: black;
+}
+.staff img{
+    width: 400px;
+    border: 10px solid #cccc;
+    
+    
+}
